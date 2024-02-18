@@ -3,8 +3,7 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-  }
-  
+  }  
   .container {
     max-width: 400px;
     margin: 50px auto;
@@ -13,20 +12,16 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
-  
   .registration-form h2 {
     text-align: center;
   }
-  
   .form-group {
     margin-bottom: 20px;
   }
-  
   .form-group label {
     display: block;
     margin-bottom: 5px;
   }
-  
   .form-group input[type="text"],
   .form-group input[type="email"],
   .form-group input[type="password"] {
@@ -35,7 +30,6 @@ body {
     border: 1px solid #ccc;
     border-radius: 5px;
   }
-  
   .form-group button {
     width: 100%;
     padding: 10px;
@@ -46,8 +40,6 @@ body {
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
-  
   .form-group button:hover {
     background-color: #0056b3;
   }
-  
